@@ -1,0 +1,38 @@
+body{
+ background-color:yellow;
+text-align:center;
+}
+#s1{
+  color:darkblue;
+  font-size:40px;
+}
+#paragraph{
+  font-size:30px;
+    color:red;
+}
+#img1{
+  width:450px;
+  height:250px;
+  border-radius:30%;
+}
+.menu{
+position: absolute;
+top: 10px;
+right: 20px;
+z-index: 10;
+cursor: pointer;
+list-style: none;
+}
+.links{
+float: left;
+color:blueviolet;
+font-size: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.links:hover{
+background-color: deeppink;
+color: white;
+}
